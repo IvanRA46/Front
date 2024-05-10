@@ -1,5 +1,5 @@
 import './App.css'
-import Test1 from './Test1'
+import Form from './components/Forms/Form'
 //import Header from './components/Header'
 //import Form from './components/Forms/Form'
 
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <> 
-      <Test1 />
+      <Form />
     </>
   )
 }
